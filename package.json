@@ -1,7 +1,7 @@
 {
   "name": "demo-redux",
-  "version": "1.0.1",
-  "main": "dist/index.ts",
+  "version": "1.0.2",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"

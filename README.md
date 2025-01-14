@@ -121,7 +121,7 @@ export const { apiSlice: userApiSlice, fetchApiData: fetchUserData } = userApi;
 ## License
 
 This project is licensed under the ISC License.
+Author: Usama Aamir
 
 ---
 
-This README provides a clear explanation of how to install and use your package, with code examples for each step. Let me know if you need any changes!
